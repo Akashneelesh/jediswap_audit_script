@@ -1,0 +1,74 @@
+[
+    {
+        "mintEvent": {
+            "Sender": "0x287d2ff1c39a44cd18d9dc7ed5617c9cb16b65090db6a0f689aa14755e4e5e",
+            "Owner": "0x287d2ff1c39a44cd18d9dc7ed5617c9cb16b65090db6a0f689aa14755e4e5e",
+            "TickLower": {
+                "Mag": "0xd89e6",
+                "Sign": "0x1"
+            },
+            "TickUpper": {
+                "Mag": "0xd89e6",
+                "Sign": "0x0"
+            },
+            "Amount": "0x18673",
+            "Amount0": "0x1869f",
+            "Amount1": "0x18648"
+        },
+        "position": {
+            "Liquidity": "0xf4d3fad7",
+            "FeeGrowthInside0LastX128": "0xee6df1032bc66e8663aada20cf6",
+            "FeeGrowthInside1LastX128": "0x1f42c1d87eae3d50988fbc3e093f",
+            "TokensOwed0": "0x238",
+            "TokensOwed1": "0x606"
+        }
+    },
+    {
+        "mintEvent": {
+            "Sender": "0x287d2ff1c39a44cd18d9dc7ed5617c9cb16b65090db6a0f689aa14755e4e5e",
+            "Owner": "0x287d2ff1c39a44cd18d9dc7ed5617c9cb16b65090db6a0f689aa14755e4e5e",
+            "TickLower": {
+                "Mag": "0xd89e6",
+                "Sign": "0x1"
+            },
+            "TickUpper": {
+                "Mag": "0xd89e6",
+                "Sign": "0x0"
+            },
+            "Amount": "0x18673",
+            "Amount0": "0x1869f",
+            "Amount1": "0x18648"
+        },
+        "position": {
+            "Liquidity": "0xf4d3fad7",
+            "FeeGrowthInside0LastX128": "0xee6df1032bc66e8663aada20cf6",
+            "FeeGrowthInside1LastX128": "0x1f42c1d87eae3d50988fbc3e093f",
+            "TokensOwed0": "0x238",
+            "TokensOwed1": "0x606"
+        }
+    },
+    {
+        "mintEvent": {
+            "Sender": "0x287d2ff1c39a44cd18d9dc7ed5617c9cb16b65090db6a0f689aa14755e4e5e",
+            "Owner": "0x287d2ff1c39a44cd18d9dc7ed5617c9cb16b65090db6a0f689aa14755e4e5e",
+            "TickLower": {
+                "Mag": "0xd89e6",
+                "Sign": "0x1"
+            },
+            "TickUpper": {
+                "Mag": "0xd89e6",
+                "Sign": "0x0"
+            },
+            "Amount": "0x18673",
+            "Amount0": "0x1869f",
+            "Amount1": "0x18648"
+        },
+        "position": {
+            "Liquidity": "0xf4d3fad7",
+            "FeeGrowthInside0LastX128": "0xee6df1032bc66e8663aada20cf6",
+            "FeeGrowthInside1LastX128": "0x1f42c1d87eae3d50988fbc3e093f",
+            "TokensOwed0": "0x238",
+            "TokensOwed1": "0x606"
+        }
+    }
+]
